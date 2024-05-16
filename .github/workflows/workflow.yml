@@ -2,7 +2,7 @@ name: Automate Script
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run every day at midnight
+    - cron: '*/10 * * * *'  # Trigger every 10 minutes
 
 jobs:
   run-script:

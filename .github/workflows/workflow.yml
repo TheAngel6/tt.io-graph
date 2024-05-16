@@ -24,4 +24,4 @@ jobs:
         run: python main.py
         
       - name: Send graph to Discord
-        run: python send_to_discord.py ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python main.py ${{ secrets.DISCORD_WEBHOOK_URL }}

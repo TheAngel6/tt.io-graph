@@ -18,7 +18,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install requests matplotlib
+        run: pip install requests matplotlib json os time
 
       - name: Run script
         run: python main.py

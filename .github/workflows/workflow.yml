@@ -28,7 +28,7 @@ jobs:
       - name: Run script
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python your_script.py
+        run: python main.py
 
       - name: Commit changes
         run: |

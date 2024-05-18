@@ -28,7 +28,7 @@ jobs:
       - name: Run script
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python main.py
+        run: python your_script.py
 
       - name: Commit changes
         run: |
@@ -38,4 +38,4 @@ jobs:
           git commit -m 'Update clan data'
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_token }} # Use your custom secret here

@@ -97,14 +97,17 @@ def create_graph(data, filename):
 
 
 # Function to send graph via Discord webhook
+import os
+
+# Function to send graph via Discord webhook
 def send_graph_to_discord(filename):
     try:
         # Read image file
         with open(filename, 'rb') as file:
             image_data = file.read()
 
-        # Discord webhook URL
-        webhook_url = 'DISCORD_WEBHOOK_URL'
+        # Discord webhook URL from environment variable
+        webhook_url = os.getenv('DISCORD_WEBHOOK_URL')
 
         # Payload
         payload = {
@@ -120,6 +123,7 @@ def send_graph_to_discord(filename):
             print("Failed to send graph:", response.text)
     except Exception as e:
         print(f"Error sending graph to Discord: {e}")
+
 
 # Main function
 def main():

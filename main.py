@@ -34,7 +34,7 @@ def scrape_top_clans():
 def save_data(data):
     try:
         with open('clan_data.json', 'w') as file:
-            json.dump(data, file)
+            json.dump(data, file, indent=4)
         print("Data saved successfully.")
     except Exception as e:
         print(f"Error saving data: {e}")

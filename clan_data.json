@@ -58078,5 +58078,65 @@
         "name": "IND",
         "points": "1.800",
         "timestamp": "2024-05-29 06:09:28"
+    },
+    {
+        "rank": "1",
+        "name": "CORGI",
+        "points": "16.283",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "2",
+        "name": "OG",
+        "points": "11.284",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "3",
+        "name": "PL",
+        "points": "7.883",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "4",
+        "name": "FR",
+        "points": "5.634",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "5",
+        "name": "EU",
+        "points": "4.579",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "6",
+        "name": "VOID",
+        "points": "3.426",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "7",
+        "name": "1112",
+        "points": "2.983",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "8",
+        "name": "RU",
+        "points": "2.871",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "9",
+        "name": "TR",
+        "points": "2.722",
+        "timestamp": "2024-05-29 07:06:55"
+    },
+    {
+        "rank": "10",
+        "name": "IND",
+        "points": "1.809",
+        "timestamp": "2024-05-29 07:06:55"
     }
 ]

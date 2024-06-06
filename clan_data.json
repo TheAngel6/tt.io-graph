@@ -70318,5 +70318,65 @@
         "name": "UA",
         "points": "1.885",
         "timestamp": "2024-06-06 18:08:11"
+    },
+    {
+        "rank": "1",
+        "name": "CORGI",
+        "points": "15.536",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "2",
+        "name": "OG",
+        "points": "11.793",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "3",
+        "name": "PL",
+        "points": "7.218",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "4",
+        "name": "FR",
+        "points": "5.366",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "5",
+        "name": "EU",
+        "points": "4.576",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "6",
+        "name": "TR",
+        "points": "3.167",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "7",
+        "name": "VOID",
+        "points": "3.033",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "8",
+        "name": "RU",
+        "points": "2.963",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "9",
+        "name": "1112",
+        "points": "2.429",
+        "timestamp": "2024-06-06 19:05:04"
+    },
+    {
+        "rank": "10",
+        "name": "UA",
+        "points": "1.876",
+        "timestamp": "2024-06-06 19:05:04"
     }
 ]
